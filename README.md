@@ -3,3 +3,5 @@
 👨‍💻 This is the starter **Unity 2D package** for the **Igloovision 360 Degree Immersive Room!**
 
 ☎️ Need help with your game? Contact Igloovision support at **[myadvocate@igloovision.com](myadvocate@igloovision.com)**
+
+🖱️ Learn more about what Igloovision has to offer **[www.igloovision.com/](here!)**
